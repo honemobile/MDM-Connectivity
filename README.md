@@ -13,10 +13,14 @@ Features
 
 Document
 =======
+ * [libcurl for iOS 7.33.0](http://home.comcast.net/~seiryu/libcurl-ios.html)
+ * [OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone/tree/master/include)
+ * [Managed App Configuration](https://developer.apple.com/library/IOs//samplecode/sc2279/Listings/ReadMe_txt.html)
 
 Usage Guide
 =======
  * Please use this app as guided by your IT administrator.
+
 Support
 =======
 Having trouble with apps? Please contact support@HoneMobile.com and we’ll help you sort it out.
